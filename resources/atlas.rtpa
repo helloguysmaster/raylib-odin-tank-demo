@@ -1,0 +1,12 @@
+#
+# rTexPacker atlas descriptor file (v2.0)
+#
+# Number of packed sprites:     3
+#
+# Atlas info:    a <imagePath> <width> <height> <spriteCount> <isFont> <fontSize>
+# Sprite info:   s <nameId> <originX> <originY> <positionX> <positionY> <sourceWidth> <sourceHeight> <padding> <trimmed> <trimRecX> <trimRecY> <trimRecWidth> <trimRecHeight>
+#
+a atlas.png 2048 2048 3 0 32
+s bullet 0 0 1352 0 114 114 5 0 0 0 114 114
+s tank 0 0 0 0 820 772 5 0 0 0 820 772
+s plane 0 0 830 0 512 512 5 0 0 0 512 512
